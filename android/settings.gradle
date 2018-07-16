@@ -1,0 +1,3 @@
+rootProject.name = 'Foodhub'
+
+include ':app'
